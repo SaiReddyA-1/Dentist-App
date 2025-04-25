@@ -34,10 +34,9 @@ Notification System
 **Database:** Mongo DB
 
 ## Screenshots
+![SignUp](https://github.com/user-attachments/assets/4983d44a-8958-4cff-ab09-d16c2df236d2)
 
-![signup](https://i.postimhttps://https://i.postimg.cc/sDgX7s8d/SignUp.png)
-
-![Sign in](https://i.postimg.cc/QCzg7c2B/Sign-In.png)
+![Sign In](https://github.com/user-attachments/assets/6116067a-75ec-471b-b941-214ec9f65564)
 
 ![Dashboard](https://i.postimg.cc/1zPJKcj2/Dashboard.png)
 
