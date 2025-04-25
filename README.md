@@ -37,7 +37,7 @@ Notification System
 ![SignUp](https://github.com/user-attachments/assets/4983d44a-8958-4cff-ab09-d16c2df236d2)
 
 ![Sign In](https://github.com/user-attachments/assets/6116067a-75ec-471b-b941-214ec9f65564)
-
+<!--
 ![Dashboard](https://i.postimg.cc/1zPJKcj2/Dashboard.png)
 
 ![Users](https://i.postimg.cc/fRwJMVtm/Users.png)
@@ -56,8 +56,7 @@ Notification System
 
 ![Doctor Notification](https://i.postimg.cc/0yhtFKyd/Doctor-Notification.png)
 
-![User Notification](https://i.postimg.cc/zB8kYCZW/User-Notification.png)
-
+![User Notification](https://i.postimg.cc/zB8kYCZW/User-Notification.png) -->
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
