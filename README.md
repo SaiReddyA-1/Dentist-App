@@ -1,3 +1,11 @@
+# 🚨 Submission Note
+
+This project is submitted as part of the OralVis HealthCare hiring process.
+
+> 🚧 **Deployment in Progress:** I’m currently resolving some deployment issues and will update the live link here as soon as it’s ready.
+
+📌 **Note:** I'm currently managing my semester exams alongside this assignment because I’m genuinely excited about this opportunity. Despite the time crunch, I’ve put my full effort into building this project and would be thrilled to join as an intern at OralVis HealthCare. Thank you for considering my application!
+
 # MERN Doctor 📝 Appointment App
 
 Doctor Appointment App is a comprehensive platform designed for managing users, doctors, and appointments seamlessly.
@@ -190,6 +198,6 @@ To run this project, you will need to add the following environment variables to
 
 ---
 
-Made with ❤️ by Sai Reddy
+Made with ❤️ by Sai Reddy for OralVis HealthCare
 
 </div>
